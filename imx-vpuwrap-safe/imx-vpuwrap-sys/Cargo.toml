@@ -1,6 +1,6 @@
 [package]
 name = "imx-vpuwrap-sys"
-version = "0.1.0"
+version = "0.1.1"
 description = "Low-level bindings for imx-vpuwrap library."
 authors = ["Philip Ye <yestyle@gmail.com>"]
 edition = "2021"
