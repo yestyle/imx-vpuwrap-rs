@@ -15,8 +15,8 @@ keywords = [
     "wrapper",
     "video",
 ]
-repository = "https://github.com/yestyle/imx-vpuwrap-sys"
-homepage = "https://github.com/yestyle/imx-vpuwrap-sys"
+repository = "https://github.com/yestyle/imx-vpuwrap-rs"
+homepage = "https://github.com/yestyle/imx-vpuwrap-rs"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
