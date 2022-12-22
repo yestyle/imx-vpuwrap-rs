@@ -1,0 +1,25 @@
+[package]
+name = "imx-vpuwrap-rs"
+version = "0.1.0"
+description = "High level bindings for imx-vpuwrap library."
+authors = ["Philip Ye <yestyle@gmail.com>"]
+edition = "2021"
+license = "MIT"
+categories = [
+    "api-bindings",
+    "multimedia::video",
+]
+keywords = [
+    "NXP",
+    "VPU",
+    "wrapper",
+    "video",
+]
+repository = "https://github.com/yestyle/imx-vpuwrap-sys"
+homepage = "https://github.com/yestyle/imx-vpuwrap-sys"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+imx-vpuwrap-safe = { path = "imx-vpuwrap-safe", version = "0.1.0" }
